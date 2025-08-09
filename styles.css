@@ -1,0 +1,5 @@
+:root{--bg:#070716;--neon1:#00e5ff;--neon2:#ff2df0;--neon3:#66ff99}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:radial-gradient(1200px 800px at 50% 60%,#0b0b1f 0%,#09091a 35%,#070716 60%,#050512 100%);display:flex;align-items:center;justify-content:center;overflow:hidden}
+#c{width:min(92vw,920px);height:min(92vw,920px);max-width:92vmin;max-height:92vmin;display:block}
