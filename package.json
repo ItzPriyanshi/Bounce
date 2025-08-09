@@ -1,14 +1,5 @@
 {
   "name": "neon-bounce-bun-canvas",
   "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "bun run serve",
-    "serve": "bunx http-server -c-1 -p 5173",
-    "build": "echo static"
-  },
-  "devDependencies": {
-    "http-server": "^14.1.1"
-  }
+  "private": true"
 }
